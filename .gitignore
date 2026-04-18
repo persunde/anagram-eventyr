@@ -1,0 +1,17 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Kotlin
+*.class
+*.kotlin_module
+
+# OS
+.DS_Store
+
+dependency-reduced-pom.xml
