@@ -42,7 +42,7 @@ mvn test
 
 ## Assumptions
 
-Assume we only want to print out anagram groups of more than one word/anagram.
+Assume we only want to print out anagram groups that has two or more words, no single word groups.
 
 Assumes we do not want to print out the same anagram group more than once. 
 So "bar" and "bra", are both anagrams, but we print out the group only one time. And we do not go through every single word in the file and print out the corresponding anagrams, because then we end up printing the same groups multiple times.
