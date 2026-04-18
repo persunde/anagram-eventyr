@@ -1,6 +1,6 @@
 # Anagram
 
-A Kotlin project.
+Anagram interview test.
 
 ## Prerequisites
 
