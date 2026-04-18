@@ -13,12 +13,12 @@ A Kotlin project.
 mvn package
 ```
 
-This compiles the Kotlin source and produces `target/anagram-1.0-SNAPSHOT.jar`.
+This compiles the Kotlin source and produces `target/anagram.jar`.
 
 ## Run
 
 ```bash
-java -jar target/anagram-1.0-SNAPSHOT.jar
+java -jar target/anagram.jar
 ```
 
 Expected output:

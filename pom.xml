@@ -75,6 +75,7 @@
                             <goal>shade</goal>
                         </goals>
                         <configuration>
+                            <finalName>anagram</finalName>
                             <filters>
                                 <filter>
                                     <artifact>*:*</artifact>
